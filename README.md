@@ -70,3 +70,8 @@ The task is based on common data preprocessing practices essential for preparing
 
 This task demonstrates how to build an efficient data pipeline for preprocessing and transforming raw data into a usable format. Using **Pandas** and **Scikit-learn**, the pipeline handles missing values, scales numerical features, and encodes categorical variables, ensuring the data is ready for analysis or modeling. Data preprocessing is a critical step in real-world machine learning workflows, and automating this process ensures data consistency and quality.
 The approach outlined in this task not only handles the immediate needs of missing value imputation and encoding but also ensures that the dataset is optimized for machine learning algorithms. By utilizing tools like StandardScaler and OneHotEncoder, the transformed dataset is made more suitable for algorithms that rely on numerical inputs and require standardized scales for better performance. Additionally, Scikit-learn's robust handling of different data types ensures that each transformation is applied in the most efficient manner. The automation of this process in the form of a reusable pipeline reduces manual intervention and minimizes errors, making it easier to preprocess future datasets with similar structures. By utilizing this approach, we create a structured, consistent, and efficient method to transform raw data into a format ready for predictive analytics or machine learning models.
+
+
+**OUTPUT** :
+
+![output_data_pipeline](https://github.com/user-attachments/assets/aed61174-513a-4924-8a6d-08d97cc9d0ad)
